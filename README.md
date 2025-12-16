@@ -105,8 +105,8 @@ Open http://localhost:3000 in your browser.
 
 ## Demo
 
-- **Live Demo:** _\[[Vercel / Netlify link here\](https://nova-crust-checkout.vercel.app/)]_
-- **Video Demo (optional):** _\[Loom / Jam.dev link here\](https://www.loom.com/share/34cc0e172ee24cd6b03c473fc0e1397c/)_
+- **Live Demo:** (https://nova-crust-checkout.vercel.app)
+- **Video Demo (optional):** (https://www.loom.com/share/34cc0e172ee24cd6b03c473fc0e1397c)
 
 ## Time Spent
 
