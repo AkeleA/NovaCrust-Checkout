@@ -26,7 +26,7 @@ I selected **two core screens** from the Figma design that best demonstrate UI c
 
 Other tabs (“Cash to Crypto”, “Crypto to Fiat Loan”) are implemented as **Coming Soon** states to reflect realistic product staging.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Next.js (App Router)**
 - **React + TypeScript**
@@ -34,7 +34,7 @@ Other tabs (“Cash to Crypto”, “Crypto to Fiat Loan”) are implemented as 
 - **Lucide Icons**
 - **Next/Image** for optimized SVG rendering
 
-## 🧩 Component Structure
+## Component Structure
 
 The UI is broken down into reusable, focused components:
 
@@ -105,8 +105,8 @@ Open http://localhost:3000 in your browser.
 
 ## Demo
 
-- **Live Demo:** _\[Vercel / Netlify link here\]_
-- **Video Demo (optional):** _\[Loom / Jam.dev link here\]_
+- **Live Demo:** _\[[Vercel / Netlify link here\](https://nova-crust-checkout.vercel.app/)]_
+- **Video Demo (optional):** _\[Loom / Jam.dev link here\](https://www.loom.com/share/34cc0e172ee24cd6b03c473fc0e1397c/)_
 
 ## Time Spent
 
